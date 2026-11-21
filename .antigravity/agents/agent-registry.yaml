@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-south-sudan-canal-and-intervention-historian
-  name: South Sudan Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-south-sudan-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_ss_001
+    name: South Sudan Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_002
+    name: South Sudan Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_003
+    name: South Sudan Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_004
+    name: South Sudan Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_005
+    name: South Sudan Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_006
+    name: South Sudan Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_007
+    name: South Sudan Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_008
+    name: South Sudan Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_009
+    name: South Sudan Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_010
+    name: South Sudan Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_011
+    name: South Sudan Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_012
+    name: South Sudan Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_013
+    name: South Sudan Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_014
+    name: South Sudan Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_015
+    name: South Sudan Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_016
+    name: South Sudan Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_017
+    name: South Sudan Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_018
+    name: South Sudan Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_019
+    name: South Sudan Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_020
+    name: South Sudan Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_021
+    name: South Sudan Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_022
+    name: South Sudan Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_023
+    name: South Sudan Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_024
+    name: South Sudan Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_025
+    name: South Sudan Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_026
+    name: South Sudan Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_027
+    name: South Sudan Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_028
+    name: South Sudan Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_029
+    name: South Sudan Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_030
+    name: South Sudan Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_031
+    name: South Sudan Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_032
+    name: South Sudan Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_033
+    name: South Sudan Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_034
+    name: South Sudan Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_035
+    name: South Sudan Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_036
+    name: South Sudan Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_037
+    name: South Sudan Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_038
+    name: South Sudan Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_039
+    name: South Sudan Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_040
+    name: South Sudan Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_041
+    name: South Sudan Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_042
+    name: South Sudan Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_043
+    name: South Sudan Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_044
+    name: South Sudan Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_045
+    name: South Sudan Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_046
+    name: South Sudan Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_047
+    name: South Sudan Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_048
+    name: South Sudan Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_049
+    name: South Sudan Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_050
+    name: South Sudan Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_051
+    name: South Sudan Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_052
+    name: South Sudan Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_053
+    name: South Sudan Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_054
+    name: South Sudan Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_055
+    name: South Sudan Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_056
+    name: South Sudan Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_057
+    name: South Sudan Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_058
+    name: South Sudan Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_059
+    name: South Sudan Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_060
+    name: South Sudan Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_061
+    name: South Sudan Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_062
+    name: South Sudan Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_063
+    name: South Sudan Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_064
+    name: South Sudan Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_065
+    name: South Sudan Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_066
+    name: South Sudan Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_067
+    name: South Sudan Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_068
+    name: South Sudan Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_069
+    name: South Sudan Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_070
+    name: South Sudan Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_071
+    name: South Sudan Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_072
+    name: South Sudan Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_073
+    name: South Sudan Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_074
+    name: South Sudan Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_075
+    name: South Sudan Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_076
+    name: South Sudan Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_077
+    name: South Sudan Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_078
+    name: South Sudan Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_079
+    name: South Sudan Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_080
+    name: South Sudan Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_081
+    name: South Sudan Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_082
+    name: South Sudan Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_083
+    name: South Sudan Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_084
+    name: South Sudan Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_085
+    name: South Sudan Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_086
+    name: South Sudan Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_087
+    name: South Sudan Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_088
+    name: South Sudan Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_089
+    name: South Sudan Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_090
+    name: South Sudan Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_091
+    name: South Sudan Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_092
+    name: South Sudan Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_093
+    name: South Sudan Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_094
+    name: South Sudan Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_095
+    name: South Sudan Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_096
+    name: South Sudan Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_097
+    name: South Sudan Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_098
+    name: South Sudan Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_099
+    name: South Sudan Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_100
+    name: South Sudan Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_101
+    name: South Sudan Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_102
+    name: South Sudan Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_103
+    name: South Sudan Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_104
+    name: South Sudan Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_105
+    name: South Sudan Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_106
+    name: South Sudan Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_107
+    name: South Sudan Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_108
+    name: South Sudan Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_109
+    name: South Sudan Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_110
+    name: South Sudan Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_111
+    name: South Sudan Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_112
+    name: South Sudan Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_113
+    name: South Sudan Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_114
+    name: South Sudan Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_115
+    name: South Sudan Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_116
+    name: South Sudan Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_117
+    name: South Sudan Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_118
+    name: South Sudan Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_119
+    name: South Sudan Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_120
+    name: South Sudan Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_121
+    name: South Sudan Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_122
+    name: South Sudan Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_123
+    name: South Sudan Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_124
+    name: South Sudan Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_125
+    name: South Sudan Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_126
+    name: South Sudan Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_127
+    name: South Sudan Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_128
+    name: South Sudan Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_129
+    name: South Sudan Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_130
+    name: South Sudan Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_131
+    name: South Sudan Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_132
+    name: South Sudan Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_133
+    name: South Sudan Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_134
+    name: South Sudan Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_135
+    name: South Sudan Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_136
+    name: South Sudan Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_137
+    name: South Sudan Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_138
+    name: South Sudan Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_139
+    name: South Sudan Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_140
+    name: South Sudan Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_141
+    name: South Sudan Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_142
+    name: South Sudan Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_143
+    name: South Sudan Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_144
+    name: South Sudan Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_145
+    name: South Sudan Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_146
+    name: South Sudan Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_147
+    name: South Sudan Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_148
+    name: South Sudan Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_149
+    name: South Sudan Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_150
+    name: South Sudan Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_151
+    name: South Sudan Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_152
+    name: South Sudan Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_153
+    name: South Sudan Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_154
+    name: South Sudan Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_155
+    name: South Sudan Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_156
+    name: South Sudan Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_157
+    name: South Sudan Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_158
+    name: South Sudan Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_159
+    name: South Sudan Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_160
+    name: South Sudan Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_161
+    name: South Sudan Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_162
+    name: South Sudan Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_163
+    name: South Sudan Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_164
+    name: South Sudan Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_165
+    name: South Sudan Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_166
+    name: South Sudan Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_167
+    name: South Sudan Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_168
+    name: South Sudan Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_169
+    name: South Sudan Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ss_170
+    name: South Sudan Agent 170
+    status: ACTIVE_SCAFFOLD
